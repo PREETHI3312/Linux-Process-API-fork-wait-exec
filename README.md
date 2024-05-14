@@ -1,7 +1,6 @@
 ## NAME: PREETHI A K
-## DEPT: AI & DS
 ## REGISTER NO: 212223230156
-## DATE:27/3/2024
+
 # Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
