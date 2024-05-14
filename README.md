@@ -191,7 +191,7 @@ printf("Running ps with execlp. Now with path specified\n");
         exit(0);}
         
 
-##OUTPUT
+##  OUTPUT
 $ ./execcheck2.o 
 
 Running ps with execlp
