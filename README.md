@@ -135,7 +135,8 @@ exit(0);}
 
 }
 
-##OUTPUT
+## OUTPUT
+
 $ ./forkcheck.o 
 
 I am parent, my pid is 13676
